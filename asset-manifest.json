@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Grand-0.gitnub.io/static/css/main.2f82d4f0.chunk.css",
+    "main.js": "/Grand-0.gitnub.io/static/js/main.66f73344.chunk.js",
+    "main.js.map": "/Grand-0.gitnub.io/static/js/main.66f73344.chunk.js.map",
+    "runtime-main.js": "/Grand-0.gitnub.io/static/js/runtime-main.f34fff56.js",
+    "runtime-main.js.map": "/Grand-0.gitnub.io/static/js/runtime-main.f34fff56.js.map",
+    "static/css/2.ed890e5e.chunk.css": "/Grand-0.gitnub.io/static/css/2.ed890e5e.chunk.css",
+    "static/js/2.8fb224cb.chunk.js": "/Grand-0.gitnub.io/static/js/2.8fb224cb.chunk.js",
+    "static/js/2.8fb224cb.chunk.js.map": "/Grand-0.gitnub.io/static/js/2.8fb224cb.chunk.js.map",
+    "index.html": "/Grand-0.gitnub.io/index.html",
+    "precache-manifest.eb179c47c836df14873ee5546f3e2b33.js": "/Grand-0.gitnub.io/precache-manifest.eb179c47c836df14873ee5546f3e2b33.js",
+    "service-worker.js": "/Grand-0.gitnub.io/service-worker.js",
+    "static/css/2.ed890e5e.chunk.css.map": "/Grand-0.gitnub.io/static/css/2.ed890e5e.chunk.css.map",
+    "static/css/main.2f82d4f0.chunk.css.map": "/Grand-0.gitnub.io/static/css/main.2f82d4f0.chunk.css.map",
+    "static/js/2.8fb224cb.chunk.js.LICENSE.txt": "/Grand-0.gitnub.io/static/js/2.8fb224cb.chunk.js.LICENSE.txt",
+    "static/media/ade5280032e91455765d7d400df4741e-lotus-flower-icon-lotus-icons-by-vexels.png": "/Grand-0.gitnub.io/static/media/ade5280032e91455765d7d400df4741e-lotus-flower-icon-lotus-icons-by-vexels.3181a4ef.png",
+    "static/media/mountain-icon-png.png": "/Grand-0.gitnub.io/static/media/mountain-icon-png.04919054.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f34fff56.js",
+    "static/css/2.ed890e5e.chunk.css",
+    "static/js/2.8fb224cb.chunk.js",
+    "static/css/main.2f82d4f0.chunk.css",
+    "static/js/main.66f73344.chunk.js"
+  ]
+}
